@@ -26,7 +26,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-git clone https://github.com/XiaoSanchez/Mips-Assembly-Power-of-Two.git
+git clone https://github.com/XiaoSanchez/Mips-Assembly-Pig-Latin.git
 ```
 
 And repeat
