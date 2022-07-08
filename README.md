@@ -32,7 +32,7 @@ git clone https://github.com/XiaoSanchez/Mips-Assembly-Pig-Latin.git
 And repeat
 
 ```
-cd Mips-Assembly-Power-of-Two
+cd Mips-Assembly-Pig-Latin
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
